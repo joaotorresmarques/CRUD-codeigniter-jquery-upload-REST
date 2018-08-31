@@ -1,0 +1,28 @@
+
+#visualizarVideo .modal-dialog {
+  max-width: 800px;
+  margin: 30px auto;
+}
+
+#visualizarVideo .modal-body {
+  position:relative;
+  padding:0px;
+}
+#visualizarVideo .close {
+  position:absolute;
+  right:-30px;
+  top:0;
+  z-index:999;
+  font-size:2rem;
+  font-weight: normal;
+  color:#fff;
+  opacity:1;
+}
+
+.bottomvideo{
+  padding-left: 20px;
+}
+
+.bottomvideo #vid_titulo{
+
+}
